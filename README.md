@@ -6,6 +6,15 @@
 
 
 
+
+https://go.dev/doc/install
+
+
+
+
+
+
+
 https://eli.thegreenplace.net/2024/gemma-ollama-and-langchaingo/
 
 
