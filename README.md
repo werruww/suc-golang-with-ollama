@@ -1,0 +1,1 @@
+# suc-golang-with-ollama
