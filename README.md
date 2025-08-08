@@ -22,3 +22,19 @@ https://github.com/tmc/langchaingo/tree/main
 
 
 https://eli.thegreenplace.net/2023/using-ollama-with-langchaingo/
+
+
+
+
+
+
+
+
+https://github.com/tmc/langchaingo/tree/main/examples/ollama-completion-example
+
+
+
+https://github.com/tmc/langchaingo/blob/main/docs/docs/getting-started/guide-ollama.mdx
+
+
+
