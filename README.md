@@ -37,4 +37,4 @@ https://github.com/tmc/langchaingo/tree/main/examples/ollama-completion-example
 https://github.com/tmc/langchaingo/blob/main/docs/docs/getting-started/guide-ollama.mdx
 
 
-
+https://github.com/eliben/code-for-blog/tree/main/2023/ollama-go-langchain
